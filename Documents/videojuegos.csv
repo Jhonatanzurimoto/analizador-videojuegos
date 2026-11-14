@@ -1,0 +1,16 @@
+id,titulo,genero,plataforma,anio,puntuacion,ventas_millones,desarrollador
+1,Shadow Circuit,Accion,PC,2021,8.4,1.2,Nova Byte
+2,Islas de Papel,Aventura,Switch,2020,8.9,2.7,Mar Azul Studio
+3,Pixel Strikers,Deportes,PlayStation,2022,7.6,1.8,Arcade Forge
+4,Cafe Nebula,Simulacion,PC,2023,8.1,0.9,Lumen Games
+5,Reinos Perdidos,RPG,Xbox,2019,9.2,4.1,Iron Leaf
+6,Velocidad Cero,Carreras,PlayStation,2021,7.3,1.1,Turbo Fox
+7,Guardianes del Bosque,Aventura,PC,2022,8.7,2.2,Wild Fern
+8,Neon Tactics,Estrategia,Switch,2020,7.9,0.6,Signal Works
+9,Mapa Infinito,Mundo abierto,PC,2023,,3.5,Cloud Harbor
+10,Orbita 19,Accion,Xbox,2021,8.0,,Nova Byte
+11,Historias de Arcilla,Rompecabezas,Mobile,2022,8.5,1.4,Pequeno Sol
+12,Estacion Aurora,Simulacion,PC,2020,7.8,0.8,
+13,Legado de Cobre,RPG,PlayStation,2023,9.0,3.9,Iron Leaf
+14,Campo de Titanes,Deportes,Xbox,2019,7.1,2.0,Arcade Forge
+15,Codigo Salvaje,Accion,PC,2024,8.8,1.6,Wild Fern
