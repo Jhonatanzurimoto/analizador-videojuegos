@@ -14,3 +14,88 @@ id,titulo,genero,plataforma,anio,puntuacion,ventas_millones,desarrollador
 13,Legado de Cobre,RPG,PlayStation,2023,9.0,3.9,Iron Leaf
 14,Campo de Titanes,Deportes,Xbox,2019,7.1,2.0,Arcade Forge
 15,Codigo Salvaje,Accion,PC,2024,8.8,1.6,Wild Fern
+16,Cronicas de Cristal,Aventura,PC,2022,6.9,4.2,Pequeno Sol
+17,Pulso Cibernetico,Estrategia,PC,2018,7.2,3.2,Nube Gris
+18,Valle Silencioso,Rompecabezas,Xbox,2021,7.4,4.2,Wild Fern
+19,Motores al Limite,Carreras,PlayStation,2020,8.9,2.3,Turbo Fox
+20,Imperio de Arena,RPG,PC,2025,9.5,3.2,Pequeno Sol
+21,Ecos del Abismo,Carreras,Mobile,2021,6.6,1.8,Lumen Games
+22,Torneo Estelar,Aventura,Xbox,2022,9.1,2.1,Nube Gris
+23,Granja Celeste,Aventura,Mobile,2020,7.3,1.7,Nube Gris
+24,Laberinto de Sombras,Rompecabezas,Switch,2023,8.9,0.5,Iron Leaf
+25,Furia Nocturna,Aventura,Switch,2023,8.0,3.6,Arcade Forge
+26,Horizonte Lejano,Simulacion,Mobile,2022,7.8,2.2,Arcade Forge
+27,Duelo de Titanes,Rompecabezas,Xbox,2019,9.2,1.1,Pequeno Sol
+28,Mecanica Oculta,Aventura,Xbox,2024,8.0,3.2,Estrella Roja
+29,Viaje al Centro,Aventura,Mobile,2022,7.6,1.1,
+30,Asfalto Rojo,RPG,Mobile,2020,6.8,4.7,Lumen Games
+31,Tactica Suprema,Deportes,PlayStation,2020,8.9,0.3,Nova Byte
+32,Bosque Encantado,Aventura,PlayStation,2022,7.2,0.7,Horizonte Digital
+33,Cubos Magicos,Aventura,Mobile,2020,8.0,1.7,Wild Fern
+34,Noche de Neones,Simulacion,Mobile,2021,7.7,2.2,Signal Works
+35,Aventura Submarina,Aventura,Switch,2021,6.6,3.4,
+36,Copa Mundial 24,Accion,Switch,2019,9.2,1.5,Lumen Games
+37,Taller de Suenos,Rompecabezas,Switch,2025,8.0,0.8,Turbo Fox
+38,Espada de Hierro,Estrategia,Xbox,2025,6.7,3.7,Nube Gris
+39,Deriva Total,Carreras,PC,2021,8.2,1.3,Horizonte Digital
+40,Frontera Galactica,Aventura,Xbox,2019,9.6,5.3,Horizonte Digital
+41,Mente Maestra,Simulacion,Switch,2024,7.2,0.6,Wild Fern
+42,Tierras Altas,RPG,Xbox,2022,9.5,3.2,Arcade Forge
+43,Codigo Fantasma,Simulacion,PlayStation,2021,8.3,4.2,Pequeno Sol
+44,Rutas del Viento,Mundo abierto,Mobile,2020,8.1,0.7,Horizonte Digital
+45,Arena de Campeones,Simulacion,Xbox,2019,8.3,0.5,Estrella Roja
+46,Ciudad Flotante,Rompecabezas,PlayStation,2022,8.7,2.4,Iron Leaf
+47,Cazadores de Estrellas,Mundo abierto,PlayStation,2019,,3.2,Cloud Harbor
+48,Reloj de Arena,Simulacion,Mobile,2022,7.6,1.6,Signal Works
+49,Protocolo Cero,Rompecabezas,PlayStation,2018,8.2,0.8,Iron Leaf
+50,Islas Olvidadas,Aventura,PC,2020,8.4,1.4,Iron Leaf
+51,Liga Urbana,Rompecabezas,Xbox,2022,9.1,2.5,Nova Byte
+52,Refugio Alpino,Carreras,Switch,2022,7.9,3.2,Cobre Vivo
+53,Trono de Ceniza,Deportes,Mobile,2018,8.3,1.0,Cobre Vivo
+54,Pista Helada,Accion,PlayStation,2021,8.6,3.2,Pequeno Sol
+55,Comandante Estelar,Deportes,Switch,2020,9.0,0.4,Turbo Fox
+56,Sendero Luminoso,Estrategia,Switch,2022,8.7,0.5,Lumen Games
+57,Enigma Solar,Mundo abierto,PlayStation,2022,9.2,3.7,Iron Leaf
+58,Sombra del Dragon,Aventura,PlayStation,2023,7.7,3.1,Mar Azul Studio
+59,Turbo Extremo,RPG,Switch,2022,,2.1,Wild Fern
+60,Mundo de Papel,Rompecabezas,PC,2024,7.1,,Cloud Harbor
+61,Estacion Orbital,Rompecabezas,Switch,2023,9.4,3.5,Mar Azul Studio
+62,Jardin Secreto,RPG,Mobile,2022,7.5,3.2,Estrella Roja
+63,Guerra de Clanes,Estrategia,Switch,2022,9.1,1.4,Pequeno Sol
+64,Aventura Polar,Carreras,Xbox,2025,7.2,5.0,Arcade Forge
+65,Destello Final,Aventura,PlayStation,2023,9.5,1.9,Arcade Forge
+66,Copa de Oro,Accion,PC,2021,8.4,2.7,Pequeno Sol
+67,Constructor Urbano,Simulacion,Xbox,2025,7.0,4.9,Cobre Vivo
+68,Leyenda del Norte,Aventura,Xbox,2021,9.5,0.6,Horizonte Digital
+69,Velocidad Maxima,Aventura,Xbox,2020,8.6,3.4,Cobre Vivo
+70,Alianza Galactica,Mundo abierto,Mobile,2024,8.2,4.2,Iron Leaf
+71,Piezas Perdidas,Simulacion,PlayStation,2025,7.4,1.8,Turbo Fox
+72,Pulso Urbano,Rompecabezas,PC,2020,7.7,1.4,Turbo Fox
+73,Cumbres Borrascosas,Rompecabezas,Xbox,2024,9.1,4.3,Nova Byte
+74,Estadio Infinito,Estrategia,Xbox,2018,7.4,4.9,Cloud Harbor
+75,Cosecha Lunar,Rompecabezas,Mobile,2021,7.3,2.3,Viento Sur
+76,Guardianes del Tiempo,Estrategia,Switch,2025,9.5,5.0,Estrella Roja
+77,Circuito Nocturno,Accion,PC,2024,7.9,2.3,Turbo Fox
+78,Imperio Oculto,Carreras,Xbox,2022,9.1,0.7,
+79,Mosaico Magico,Rompecabezas,PC,2023,6.7,0.5,
+80,Fuego Cruzado,Simulacion,Switch,2018,7.2,0.9,Signal Works
+81,Odissea Espacial,RPG,PlayStation,2020,9.5,4.3,Iron Leaf
+82,Golpe Maestro,Aventura,Mobile,2018,8.3,2.3,Lumen Games
+83,Vida en la Isla,Aventura,Mobile,2021,8.9,3.4,Pequeno Sol
+84,Cronicas del Fuego,Accion,PlayStation,2024,6.7,0.4,Signal Works
+85,Pista Salvaje,Aventura,Xbox,2023,9.1,2.6,Estrella Roja
+86,Estrategia Real,RPG,Mobile,2025,9.1,2.0,Cobre Vivo
+87,Mundo Subterraneo,Aventura,PlayStation,2025,7.9,2.3,
+88,Torre de Cristal,Carreras,Switch,2025,9.0,4.9,Iron Leaf
+89,Operacion Sombra,Rompecabezas,PC,2021,8.7,4.2,Estrella Roja
+90,Mar de Estrellas,Mundo abierto,Xbox,2018,7.2,1.9,Signal Works
+91,Torneo Relampago,Rompecabezas,Mobile,2023,8.8,4.0,Iron Leaf
+92,Arquitecto Digital,Simulacion,PC,2021,8.8,3.9,Nube Gris
+93,Reino de Hielo,Mundo abierto,PlayStation,2022,9.1,2.2,Nube Gris
+94,Asfalto Urbano,Rompecabezas,Switch,2022,,1.8,Estrella Roja
+95,Mision Marte,Mundo abierto,PC,2018,8.0,1.3,Horizonte Digital
+96,Espejo Roto,Mundo abierto,PC,2019,6.7,0.6,Pequeno Sol
+97,Furia Metalica,RPG,PC,2021,8.9,4.4,Cloud Harbor
+98,Tierra Prometida,Estrategia,Xbox,2025,8.3,3.3,Nube Gris
+99,Liga de Leyendas,Aventura,Switch,2021,6.8,3.2,Wild Fern
+100,Bosque de Cristal,Mundo abierto,Mobile,2025,7.2,4.0,Estrella Roja
